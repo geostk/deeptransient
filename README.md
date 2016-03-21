@@ -24,7 +24,13 @@ publication:
 
 ## Getting Started
 
-TODO
+Download the model weights:
+
+```./download_models.sh```
+
+Run the example:
+
+```python example.py```
 
 ## License
 
