@@ -49,7 +49,9 @@ pred = out['fc8-t'].squeeze()
 
 #
 # output the results
-# clean this up to include attribute labels
 #
 
-print pred
+print
+with open('./data/attributes.txt', 'r') as attr_file:
+  for ix,attribute in enumerate(attr_file):
+    print attribute.strip() + ': ', pred[ix]
