@@ -26,15 +26,21 @@ publication:
 
 Download the model weights:
 
-```./download_models.sh```
+```
+./download_models.sh
+```
 
 Run the example:
 
-```python example.py```
+```
+python example.py
+```
 
 To suppress Caffe output while running:
 
-```python example.py 2>/dev/null```
+```
+python example.py 2>/dev/null
+```
 
 ## License
 
