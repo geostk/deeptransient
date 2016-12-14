@@ -8,7 +8,7 @@ publication:
 > Baltenberger, Menghua Zhai, Connor Greenwell, Scott Workman, 
 > Nathan Jacobs), In IEEE Winter Conference on Applications of
 > Computer Vision (WACV), 2016.
-> [pdf](http://cs.uky.edu/~rbalten/transient/docs/Baltenberger_Transient-Attributes_WACV16.pdf) 
+> [pdf](http://rbalten.github.io/transient/docs/Baltenberger_Transient-Attributes_WACV16.pdf) 
 
 ```
 @article{baltenberger16transient,
@@ -26,9 +26,7 @@ publication:
 
 Download the model weights:
 
-```
-./download_models.sh
-```
+> [TransientNet Models](https://drive.google.com/open?id=0BzEcTtT1A2ILcl94SlVRUVlFM28) 
 
 Run the example:
 
@@ -53,6 +51,6 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 Ryan Baltenberger  
 University of Kentucky  
-http://cs.uky.edu/~rbalten/
+http://baltenberger.com/
 
 
